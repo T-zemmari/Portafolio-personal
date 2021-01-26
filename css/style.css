@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: brown;
+}
+header{
+    background-color: black;
+    width: auto;
+    height: 8em;
+    display: flex;
+    justify-content: center;
+   
+    
+
+}
+h1{
+    color: blanchedalmond;
+    font-family: "Sofia", sans-serif;
+    margin-top: 1em;
+}
+.nav{
+    background-color: rgb(32, 54, 54);
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+main{
+    background-color: brown;
+    width: 75.4em;
+    height: 24em;
+    position: relative;
+    }
+
+.central1{
+    position: absolute;
+    margin-left: 20em;
+    background-color: aqua;
+    width: 64.4em;
+    height: 24em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
+.central2{
+    
+    background-image: url(../img/Yo.jpg);
+    background-size: cover;
+    width: 15em;
+    height: 15em;
+    border-radius: 50%;
+}
+strong{
+    color: blue;
+    font-family: "Sofia", sans-serif;  
+}
+aside{
+    position: absolute;
+    width: 20em;
+    height: 24em;
+    background-color: burlywood;
+}
+.contenidos{
+    
+    display:flex;
+    width:84.5em;
+    height: 40em;
+    background-color: cadetblue;
+    flex-direction: column;
+    
+}
+.uno{
+    background-color: coral;
+    width:84.5em;
+    height: 38em;
+}
+.dos{
+    
+   
+    background-color: darkgoldenrod;
+    width: 20em;
+    height: 2em;
+}
+
+
+
+footer{
+    background-color: black;
+    height: 10em;
+}
+.foo{ 
+    background-color: black;
+    width: 84.5em;
+    height: 10em;
+}
+h3{
+    font-family: "Sofia", sans-serif;
+    color: bisque;
+}
