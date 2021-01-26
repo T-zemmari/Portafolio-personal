@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin:0;
+}
+header{
+    position: relative;
+    width: 82em;
+    height: 5em;
+    border-radius: 2em;
+    background-color: black;
+    color: blanchedalmond;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5em;
+}
+.paginas{
+
+    position: absolute;
+    margin-top: -0.5em;
+    margin-left: -60em;
+    width: 12.5em;
+    height: 2em;
+    background-color: white;
+    border-radius: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: first baseline;
+}
+.section{
+    position: relative;
+    
+    width: 82em;
+    height: 33em;
+    border-radius: 2em;
+    background-color:silver;
+    border-radius: 2em;
+}
+.experiencia{
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 60em;
+    width: 20em;
+    height: 20em;
+    background-color: blueviolet;
+    border-radius: 2em;
+}
+.estudios{
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 30em;
+    width: 20em;
+    height: 20em;
+    background-color: rgb(34, 3, 63);
+    border-radius: 2em;
+}
+.motivaciones{
+        position: absolute;
+        margin-top: 22em;
+        margin-left: 1em;
+        width: 80em;
+        height: 10em;
+        background-color: blueviolet;
+        border-radius: 2em;
+ }
+ .actualmente{
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 1em;
+    width: 20em;
+    height: 20em;
+    background-color: blueviolet;
+    border-radius: 2em;
+    
+}
+h3{
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 2.5em;
+    color: white;
+   
+}
